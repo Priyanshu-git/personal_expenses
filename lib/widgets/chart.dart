@@ -45,7 +45,7 @@ class Chart extends StatelessWidget {
       child: Column(
         children: [
           Container(
-          margin: EdgeInsets.all(10),
+          margin: EdgeInsets.all(5),
             child: Text(
               "Transactions for last 7 days",
               style: TextStyle(
